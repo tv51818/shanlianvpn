@@ -2,13 +2,15 @@
 
 闪连VPN：高速稳定的VPN服务，支持全球网络访问，免费试用高速VPN，安全加密代理工具
 
-## 邀请码 91729535
-- 全球节点VPN下载：https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN
-- 高速网络代理工具：https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN
+注册地址：[https://lightningxvpn.com/register/](https://lightningxvpn.com/register/){:target="_blank"}
 
 ## 邀请码 91729535
-- 安全加密VPN客户端：https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN
-- 突破限制网络工具：https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN
+- 全球节点VPN下载：[https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN](https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN){:target="_blank"}
+- 高速网络代理工具：[https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN](https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN){:target="_blank"}
+
+## 邀请码 91729535
+- 安全加密VPN客户端：[https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN](https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN){:target="_blank"}
+- 突破限制网络工具：[https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN](https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN){:target="_blank"}
 
 ### 闪连VPN核心功能
 - 高速VPN节点：覆盖全球20+地区的高速服务器
