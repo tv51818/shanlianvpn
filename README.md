@@ -1,9 +1,6 @@
 # lightningxvpn 闪连VPN
 
 闪连VPN：高速稳定的VPN服务，支持全球网络访问，免费试用高速VPN，安全加密代理工具
-
-注册地址：[https://lightningxvpn.com/register/](https://lightningxvpn.com/register/)
-
 ## 邀请码 91729535
 - 全球节点VPN下载：[https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN](https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN)
 - 高速网络代理工具：[https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN](https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN)
