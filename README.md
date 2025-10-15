@@ -1,9 +1,11 @@
 # lightningxvpn 闪连VPN
 
 闪连VPN：高速稳定的VPN服务，支持全球网络访问，免费试用高速VPN，安全加密代理工具
+## 填写下面邀请码，可以免费试用三天VIP
 ## 邀请码 91729535
 - 全球节点VPN下载：[https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN](https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN)
 - 高速网络代理工具：[https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN](https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN)
+## 填写下面邀请码，可以免费试用三天VIP
 ## 邀请码 91729535
 - 安全加密VPN客户端：[https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN](https://shanlianvpn.info/download?inviteCode=91729535&lang=zh-CN)
 - 突破限制网络工具：[https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN](https://lightningxvpn.com/download?inviteCode=91729535&lang=zh-CN)
